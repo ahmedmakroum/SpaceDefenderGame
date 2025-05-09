@@ -147,5 +147,3 @@ while running:
 
 pygame.quit()  
 
-# Created/Modified files during execution:  
-# No files were created or modified  
